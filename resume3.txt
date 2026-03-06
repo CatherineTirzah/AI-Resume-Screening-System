@@ -1,2 +1,0 @@
-Data analyst experienced in Python, SQL, and machine learning.
-Worked on predictive analytics using pandas.
