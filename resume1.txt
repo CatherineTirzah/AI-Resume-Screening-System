@@ -1,2 +1,0 @@
-Python developer experienced in machine learning and data analysis.
-Worked on NLP projects using Python and scikit-learn.
